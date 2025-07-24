@@ -9,8 +9,9 @@ e gerar um grafico de faturamento das colunas escolhidas pelo usuário. Ideal pa
 <a href="https://freeimage.host/i/FepmbpV"><img src="https://iili.io/FepmbpV.md.png" alt="FepmbpV.md.png" border="0"></a>
 
 <h2>Processos</h2>
-<h2>Arquivos suportados: csv, xls, xlsx, json, html</h2>
+
 <h2>Copia o endereço da pasta com os arquivos</h2>
+Arquivos suportados: csv, xls, xlsx, json, html
 <a href="https://freeimage.host/br"><img src="https://iili.io/Fk9dKtR.png" alt="Fk9dKtR.png" border="0" /></a>
 
 <h2>Cola o endereço para o pragrama, que vai unificar e gerar uma tabela unica</h2>
