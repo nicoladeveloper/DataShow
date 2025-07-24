@@ -8,7 +8,7 @@ e gerar um grafico de faturamento das colunas escolhidas pelo usuário. Ideal pa
 <a href="https://freeimage.host/i/FepmbpV"><img src="https://iili.io/FepmbpV.md.png" alt="FepmbpV.md.png" border="0"></a>
 
 <h2>Processos</h2>
-<h2>cola o endereço da pasta com os arquivos</h2>
+<h2>Cola o endereço da pasta com os arquivos</h2>
 <a href="https://freeimage.host/br"><img src="https://iili.io/Fk9dKtR.png" alt="Fk9dKtR.png" border="0" /></a>
 <h2>copia para o pragrama, que vai unificar e gerar uma tabela unica</h2>
 <a href="https://freeimage.host/i/Feyl07e"><img src="https://iili.io/Feyl07e.md.png" alt="Feyl07e.md.png" border="0"></a>
