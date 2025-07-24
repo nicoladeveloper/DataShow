@@ -7,7 +7,7 @@ e gerar um grafico de faturamento das colunas escolhidas pelo usuário. Ideal pa
 <h2>EXEMPLO DE GRÁFICO</h2>
 <a href="https://freeimage.host/i/FepmbpV"><img src="https://iili.io/FepmbpV.md.png" alt="FepmbpV.md.png" border="0"></a>
 
-<h2PROCESSOS</h2>
+<h2>Processos</h2>
 <h3>atualizações a serem feitas...</h3>
 <h2>Permitir o usuario tirar faturamento determinando as colunas da (tabela_total) que quer faturar</h2>
 previsões tests
