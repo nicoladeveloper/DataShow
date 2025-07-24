@@ -1,4 +1,10 @@
 # remoteRepo
+
+Bibliotecas usadas
+os
+pandas
+plotly.express
+
 <h2>Esse projeto serve para automatizar a leitura e unificação de dados de diferentes formatos em um único DataFrame (tabela_total)
 e gerar um grafico de faturamento das colunas escolhidas pelo usuário. Ideal para análises com muitos arquivos em uma pasta.</h2>
 
