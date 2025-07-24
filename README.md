@@ -14,7 +14,7 @@ e gerar um grafico de faturamento das colunas escolhidas pelo usuário. Ideal pa
 <h3>Arquivos suportados: csv, xls, xlsx, json, html</h3>
 <a href="https://freeimage.host/br"><img src="https://iili.io/Fk9dKtR.png" alt="Fk9dKtR.png" border="0" /></a>
 
-<h2>Cola o endereço para o pragrama, que vai unificar e gerar uma tabela unica</h2>
+<h2>Cola o endereço da pasta para o pragrama, que vai unificar e gerar uma tabela unica</h2>
 <a href="https://freeimage.host/i/Feyl07e"><img src="https://iili.io/Feyl07e.md.png" alt="Feyl07e.md.png" border="0"></a>
 
 <h2>O programa vai unificar os dados para permitir o usuário escolher quais colunar faturar e gerar um gráfico visto a cima</h2>
