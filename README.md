@@ -4,5 +4,7 @@
 <h2>atualizações a serem feitas...</h2>
 <h2>Permitir o usuario tirar faturamento determinando as colunas da (tabela_total) que quer somar</h2>
 previsões tests
-<h2>Permitir que o usuário escolha os arquivos que quer adcionar</h2>
+<h2>Permitir que o usuário escolha os arquivos que quer adcionar
+arquivos suportados
+</h2>
 
