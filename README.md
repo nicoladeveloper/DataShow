@@ -76,6 +76,10 @@ Como Funciona:
 2. Clique em " Configurar Chave"
 3. A IA estará pronta para auxiliar nas análises
 
+<div align="left">
+    <img height="500" src="https://github.com/user-attachments/assets/ff07ceef-696b-41e4-8b2b-1de92cc57350"/>
+</div>
+
 > **Nota**: A funcionalidade de IA é opcional. O sistema funciona normalmente sem ela, mas a sugestão inteligente não estará disponível.
 
 ### 3. Classificação Automática de Colunas
@@ -90,7 +94,7 @@ O sistema analisa e classifica automaticamente cada coluna:
 
 | Classificação | Descrição                   | Exemplo                 |
 | ------------- | --------------------------- | ----------------------- |
-| **UnitÃ¡rio** | Valores baixos (< R$ 5.000) | Preço por unidade       |
+| **Unitario** | Valores baixos (< R$ 5.000) | Preço por unidade       |
 | **Total**     | Valores altos (> R$ 5.000)  | Faturamento total       |
 | **Categoria** | Dados textuais              | Nome do produto, região |
 | **ID/Código** | Identificadores únicos      | Código do pedido        |
@@ -121,6 +125,12 @@ Para cada coluna selecionada:
 
 ### 5. Visualizações Gráficas
 
+<div align="left">
+    <img height="600" src="https://github.com/user-attachments/assets/6129b02b-ccd6-418a-92d0-3f0b2d038885"/>
+</div>
+
+---
+
 - Gráficos de barras automáticos
 - Agrupamento inteligente por categorias
 - Formatação monetária (R$)
@@ -144,4 +154,5 @@ Para cada coluna selecionada:
 1. Obtenha sua chave API em [OpenAI Platform](https://platform.openai.com/api-keys)
 2. Cole a chave no campo "ConfiguraÃ§Ã£o da OpenAI API Key"
 3. Clique em " Configurar Chave"
+
 
