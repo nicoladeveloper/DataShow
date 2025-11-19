@@ -1,4 +1,4 @@
-# 📊 DataShow 2.0 - Análise Inteligente de Dados
+<h1 align = "center">📊 DataShow 2.0 - Análise Inteligente de Dados</h1>
 
 <div align="center">
 
@@ -20,6 +20,7 @@
 
 **DataShow 2.0** é uma aplicação desktop inteligente para análise de dados comerciais e financeiros. Desenvolvida em Python com interface gráfica Tkinter, a ferramenta permite processar múltiplos arquivos de dados (CSV, Excel) e realizar análises descritivas, cálculos de faturamento e visualizações gráficas de forma simples e intuitiva.
 
+
 ### Diferenciais
 
 - **Integração com IA da OpenAI** para sugestão automática de colunas relevantes
@@ -30,12 +31,24 @@
 
 ---
 
+<div align="left">
+    <img height="500" src="https://github.com/user-attachments/assets/b896a426-4e2a-4c01-8305-4807df6f191f" alt="Screenshot 1 do DataShow 2.0"/>
+</div>
+
+---
+
 ### 📂 1. Carregamento de Dados
 
 - Suporte para arquivos **CSV** e **Excel** (XLSX, XLS)
 - Processamento simultâneo de múltiplos arquivos
 - Concatenação automática de datasets
 - Tratamento de erros e encoding (Latin1 para compatibilidade)
+
+---
+
+<div align="left">
+    <img height="500" src="https://github.com/user-attachments/assets/cc88b4f4-e16f-4e61-a9a0-2efedddf2517" alt="Screenshot 2 do DataShow 2.0"/>
+</div>
 
 ### 2. Inteligência Artificial (OpenAI)
 
@@ -45,11 +58,10 @@ Como Funciona:
 
 # O sistema envia a estrutura das colunas para o GPT-3.5-turbo
 
-prompt = """
-Eu tenho um DataFrame pandas com estas colunas: [Nome, Tipo de Dado]
-Identifique SOMENTE O NOME DA COLUNA que representa o faturamento
-ou valor total da transação.
-"""
+<div align="left">
+    <img height="500" src="https://github.com/user-attachments/assets/6b459138-8328-43e7-8f2b-90455976d221"/>
+</div>
+
 
 #### Benefícios da IA:
 
@@ -68,6 +80,12 @@ ou valor total da transação.
 
 ### 3. Classificação Automática de Colunas
 
+<div align="left">
+    <img height="600" src="https://github.com/user-attachments/assets/4303100b-f523-4878-bb7e-fa0b099f3366"/>
+</div>
+
+---
+
 O sistema analisa e classifica automaticamente cada coluna:
 
 | Classificação | Descrição                   | Exemplo                 |
@@ -76,6 +94,9 @@ O sistema analisa e classifica automaticamente cada coluna:
 | **Total**     | Valores altos (> R$ 5.000)  | Faturamento total       |
 | **Categoria** | Dados textuais              | Nome do produto, região |
 | **ID/Código** | Identificadores únicos      | Código do pedido        |
+
+
+
 
 ### 4. Análises Disponíveis
 
@@ -123,3 +144,4 @@ Para cada coluna selecionada:
 1. Obtenha sua chave API em [OpenAI Platform](https://platform.openai.com/api-keys)
 2. Cole a chave no campo "ConfiguraÃ§Ã£o da OpenAI API Key"
 3. Clique em " Configurar Chave"
+
