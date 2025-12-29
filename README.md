@@ -1,4 +1,4 @@
-<h1 align = "center">📊 DataShow 2.0 - Análise Inteligente de Dados</h1>
+<h1 align = "center">DataShow 2.0 - Análise Inteligente de Dados</h1>
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 📂 1. Carregamento de Dados
+###  1. Carregamento de Dados
 
 - Suporte para arquivos **CSV** e **Excel** (XLSX, XLS)
 - Processamento simultâneo de múltiplos arquivos
@@ -65,10 +65,10 @@ Como Funciona:
 
 #### Benefícios da IA:
 
-- ✅ **Sugestão Automática**: Identifica automaticamente qual coluna representa valores monetários
-- ✅ **Economia de Tempo**: Elimina a necessidade de análise manual de colunas
-- ✅ **Precisão**: Utiliza GPT-3.5-turbo para reconhecimento de padrões
-- ✅ **Feedback Visual**: Marca a coluna sugerida com tag "(SUGESTÃO IA)"
+- **Sugestão Automática**: Identifica automaticamente qual coluna representa valores monetários
+- **Economia de Tempo**: Elimina a necessidade de análise manual de colunas
+- **Precisão**: Utiliza GPT-3.5-turbo para reconhecimento de padrões
+- **Feedback Visual**: Marca a coluna sugerida com tag "(SUGESTÃO IA)"
 
 #### Configuração:
 
@@ -154,5 +154,6 @@ Para cada coluna selecionada:
 1. Obtenha sua chave API em [OpenAI Platform](https://platform.openai.com/api-keys)
 2. Cole a chave no campo "ConfiguraÃ§Ã£o da OpenAI API Key"
 3. Clique em " Configurar Chave"
+
 
 
